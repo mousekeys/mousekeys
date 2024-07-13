@@ -7,7 +7,7 @@
 - 🌃 I am studying Computer Engineer.
 - 🧑‍💻 I am intersted in data analysis and machine learning.
 - ⚡ I like coding and running.
-- 💻⚡I suck at Sekiro.
+- 💻⚡I suck at Sekiro(623 deaths).
 
 ### Connect with me:
 
