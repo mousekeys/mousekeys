@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Sajal. 
 
-## I'm learning and aspiring every day. 
+## Imagining Sisyphus happy. 
 
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F3ZzEyeTgxaWRvZXRkaDZrYjJiejFlbTFuajZqcnhzd2JmejRxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnQWBOGVavTFK/giphy.webp" width="360"  />
 
