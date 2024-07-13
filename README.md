@@ -28,9 +28,9 @@
 [<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" target="_blank" />][MySQL]
 [<img align="left" alt="jupyter" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/jupyter.svg" target="_blank" />][jupyter]
 [<img align="left" alt="matlab" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" target="_blank" />][matlab]
+<br/>
+<br/>
 [<img align="left" alt="cpp" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" target="_blank" />][cpp]
-<br/>
-<br/>
 [<img align="left" alt="c" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" target="_blank"  />][c]
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" target="_blank"  />][css]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" target="_blank"  />][js]
