@@ -39,7 +39,7 @@
 <br />
 <br />
 
-<h2>TODOs:</h2>
+<h2>Working on:</h2>
 <ul>
 <li>Integrate all my mini data analysis project into a singular major repo</li> 
 <li>Commit all the projects to remote repo from my local disk</li>
