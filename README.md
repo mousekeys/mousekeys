@@ -4,10 +4,9 @@
 
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F3ZzEyeTgxaWRvZXRkaDZrYjJiejFlbTFuajZqcnhzd2JmejRxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnQWBOGVavTFK/giphy.webp" width="360"  />
 
-- 🌃 I am studying Computer Engineer.
+- 🌃 I am a Computer Engineer.
 - 🧑‍💻 I am intersted in data analysis and machine learning.
 - ⚡ I like coding and running.
-- 💻⚡I suck at Sekiro(623 deaths).
 
 ### Connect with me:
 
@@ -41,9 +40,8 @@
 
 <h2>Working on:</h2>
 <ul>
-<li>Integrate all my mini data analysis project into a singular major repo</li> 
-<li>Commit all the projects to remote repo from my local disk</li>
-<li>  Make a portfolio website </li>
+<li>  Make a better portfolio website </li>
+<li>Make smth I would actually use and need.</li> 
 </ul>
 
 [course]: http://vsCodeHero.com
